@@ -1,0 +1,6 @@
+{
+  "baseApiUrl": "https://api.youneedabudget.com/v1",
+  "clientId": "3eb4060491587445f472a604ea0864560193b0996cd294e7538132b951ba5305",
+  "clientSecret": "b815b51f6d4d7f45000e43a9f4afd8e21437bbdaefc4dcf783ed224c03a7bbd0",
+  "redirectUri": "https://centsapp.ca/index.php/home"
+}
