@@ -18,6 +18,10 @@ An app that uses this client is Cents, a web app that allows for the creation of
 
 Connect with YNAB Sync Bank Account See feedback
 
+# Widget
+
+In Cents, the example app, the YNAB API means users don't spend their money without thinking first. It also means users can know what impact they can expect a fundraiser to have on their overall finances. To take this a step further, I thought it would be awesome to be able to see this kind of feedback beside any call-to-action on the web that could have financial implications for a user. So, in the example folder of this repo, there is a widget that will take a cost as a parameter and use the YNAB API to provide basic information about the user's finances that pertain to the potential expense. This includes whether or not it can be afforded, and if not, then how much saving needs to be done. It will run in any JavaScript environment.
+
 # Status
 
 This client is not 100% complete. The currently supported API endpoints are:
